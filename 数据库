@@ -1,1 +1,2 @@
-
+1、oracle版本问题：oracle 10g 官方文档说明只支持xp，不支持win7/8、linux；oracle 11g 支持win7/8、linux（oracle 11.2+linux+redhat）
+2、安装路径不能有空格和中文
